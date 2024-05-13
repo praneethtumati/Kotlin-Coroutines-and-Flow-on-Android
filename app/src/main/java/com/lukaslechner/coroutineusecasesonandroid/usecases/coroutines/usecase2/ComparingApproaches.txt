@@ -1,0 +1,14 @@
+Callbacks Approaches:
+    - Error Handling is very cumbersome.
+    - Code is not in readable format due to too many nested callbacks.
+    - Callbacks are executed on main thread as per retrofit documentation.
+
+Rx Java Approach:
+    - Less Code return.
+    - Better Error Handling.
+    - Disposable needs to be used to free up resources used.
+
+Coroutines Approach:
+    - Code is Concise.
+    - lifecycle management is built in, as soon as view model is destroyed scope gets canceled.
+    - retrofit calls are main thread safe.

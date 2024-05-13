@@ -275,25 +275,3 @@ In the `Activity`, the `repeadOnLifecycle` suspend function is used to collect e
 [[code viewmodel](app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/flow/usecase4/FlowUseCase4ViewModel.kt)]
 [[code datasource](app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/flow/usecase4/StockPriceDataSource.kt)]
 
-## Author
-
-![LukasLechner](documentation/images/lukle.png)
-
-[Lukas Lechner](https://www.lukaslechner.com)
-
-[Twitter](https://twitter.com/LukasLechnerDev) 
-
-## License
-
-Licensed under the Apache License, Version 2.0 (the "License").
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-You agree that all contributions to this repository, in the form of fixes, pull-requests, new examples etc. follow the above-mentioned license.
