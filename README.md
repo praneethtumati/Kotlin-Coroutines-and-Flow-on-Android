@@ -1,4 +1,4 @@
-![CoroutineUsecasesOnAndroid](documentation/images/Logo-new.png)
+
 
 # Kotlin Coroutines and Flow - Use Cases on Android
 
@@ -39,22 +39,7 @@ Unit Tests exist for most use cases.
 * Comparing Kotlin Coroutines with Callbacks and RxJava [[link](https://www.lukaslechner.com/comparing-kotlin-coroutines-with-callbacks-and-rxjava/)]
 * How to run an expensive calculation with Kotlin Coroutines on the Android Main Thread without freezing the UI [[link](https://www.lukaslechner.com/how-to-run-an-expensive-calculation-with-kotlin-coroutines-on-the-android-main-thread-without-freezing-the-ui/)]
 
-Sign up to my [newsletter](https://www.lukaslechner.com/newsletter/) to never miss new content. I will publish new blog posts and videos about Coroutines and Flow on a regular basis.
 
-## 🎓 Online Course
-
-This project is the foundation of a comprehensive Online Course about [Kotlin Coroutines and Flow for Android Development](https://lukaslechner.com/coroutines-flow-android?source=github)
-In the course, we are going to implement the use cases of this repository together, as well as talk about all the necessary concepts that you need to know. 
-
-[![CourseCoroutinesOnAndroid](documentation/images/course.png)](https://lukaslechner.com/coroutines-flow-android?source=github)
-
-## 📢 Sharing is Caring 
-
-If you like this project, please tell other developers about it! ❤️
-
-[![Share on Twitter](documentation/images/Twitter_bird_logo.png)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2FLukasLechnerDev%2FKotlin-Coroutine-Use-Cases-on-Android&text=This%20awesome%20example%20project%20shows%20how%20to%20implement%20the%20most%20common%20use%20cases%20for%20using%20Kotlin%20Coroutines%20for%20Android%20Development%21%20By%20@LukasLechnerDev&hashtags=%23AndroidDev%20%23Kotlin%20%23Coroutines)
-
-If you like, you can follow me on Twitter [**@LukasLechnerDev**](https://twitter.com/LukasLechnerDev).
 
 ## ⭐️ Coroutine Use Cases
 1. [Perform single network request](#1-perform-single-network-request)
